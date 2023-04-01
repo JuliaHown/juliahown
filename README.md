@@ -1,4 +1,5 @@
-### Olá, eu sou a Julia Hown. Sejam bem-vindos ao meu Github <3
+### Olá, eu sou a Julia Hown!
+Sejam bem-vindos ao meu Github <3
 
 Estudante de Analise e Desenvolvimento de Sistemas na [SPTech - São Paulo Tech School](https://www.sptech.school)
 
