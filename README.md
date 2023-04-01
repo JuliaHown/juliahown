@@ -1,7 +1,7 @@
 ### Olá, eu sou a [Julia Hown](https://www.linkedin.com/in/juliahown/)!
 Sejam bem-vindos ao meu Github ❤️
 
-- Estudante de Analise e Desenvolvimento de Sistemas na [SPTech - São Paulo Tech School](https://www.sptech.school)
+- Estudante de Análise e Desenvolvimento de Sistemas na [SPTech - São Paulo Tech School](https://www.sptech.school)
 - Atualmente estudando HTML e CSS
 
 <br>
