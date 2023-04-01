@@ -6,8 +6,8 @@ Sejam bem-vindos ao meu Github <3
 
 <div align="center">
   <a href="https://github.com/lisandrasc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lisandrasc&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrasc&layout=compact&langs_count=7&theme=aura"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliahown&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliahown&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div align="center"style="display: inline_block"><br>
