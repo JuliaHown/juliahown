@@ -2,6 +2,7 @@
 Sejam bem-vindos ao meu Github ❤️
 
 - Estudante de Análise e Desenvolvimento de Sistemas na [SPTech - São Paulo Tech School](https://www.sptech.school)
+- Desenvolvedora full stack em formação
 - Atualmente estudando HTML e CSS
 
 <br>
