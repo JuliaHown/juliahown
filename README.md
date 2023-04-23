@@ -27,8 +27,9 @@ Sejam bem-vindos ao meu Github ❤️
 <div align="center">
   <a href="https://instagram.com/juhwzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juliahown87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juliahown/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/juliahown/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br>
   
-  ![Snake animation](https://github.com/JuliaHown/lisandrasc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JuliaHown/blob/output/github-contribution-grid-snake.svg)
  
 </div>
