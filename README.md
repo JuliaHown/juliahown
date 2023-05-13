@@ -4,7 +4,7 @@ Sejam bem-vindos ao meu Github ❤️
 - Estudante de Análise e Desenvolvimento de Sistemas na [SPTech - São Paulo Tech School](https://www.sptech.school)
 - Desenvolvedora full stack em formação
 - Apaixonada por WebDesign
-- Atualmente estudando HTML e CSS
+- Atualmente estudando HTML, CSS e JavaScript
 
 <br>
 
