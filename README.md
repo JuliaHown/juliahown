@@ -3,8 +3,8 @@ Sejam bem-vindos ao meu Github ❤️
 
 - Estudante de Análise e Desenvolvimento de Sistemas na [SPTech - São Paulo Tech School](https://www.sptech.school)
 - Desenvolvedora full stack em formação
-- Apaixonada por WebDesign
-- Atualmente estudando HTML, CSS e JavaScript
+- Apaixonada por UI/UX Design
+- Atualmente estudando Java
 
 <br>
 
@@ -23,12 +23,14 @@ Sejam bem-vindos ao meu Github ❤️
 </div>
   
   ##
-  
+  <br>
 <div align="center">
   <a href="https://instagram.com/juhwzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juliahown87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliahown/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br>
+  <br>
+  <img align="center" alt="Deloitte" src="https://media.licdn.com/dms/image/D5616AQEK09tbTlitsg/profile-displaybackgroundimage-shrink_200_800/0/1679908557803?e=2147483647&v=beta&t=INxbpBIHCtwBju5CIgPWc7BPH6uhI27rbWw0NtAMM-U">
   
   ![Snake animation](https://github.com/JuliaHown/JuliaHown/blob/output/github-contribution-grid-snake.svg)
 
