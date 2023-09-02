@@ -1,11 +1,8 @@
-### Olá, eu sou a [Julia Hown](https://www.linkedin.com/in/juliahown/)!
-Sejam bem-vindos ao meu Github ❤️
+### Hi, there! I'm [Julia Hown](https://www.linkedin.com/in/juliahown/)!
+Welcome to my Github ❤️
 
-- Estudante de Análise e Desenvolvimento de Sistemas na [SPTech - São Paulo Tech School](https://www.sptech.school)
-- Desenvolvedora full stack em formação
-- Apaixonada por UI/UX Design
-- Atualmente estudando Java
-
+- System Development student from [São Paulo Tech School - SPTech](https://www.sptech.school);
+- Coding & Support at Payroll IT to Deloitte Touche Tohmatsu Limited.
 <br>
 
 <div align="center">
@@ -14,12 +11,20 @@ Sejam bem-vindos ao meu Github ❤️
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliahown&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
-<div align="center"style="display: inline_block"><br>
+<br>
+<div align="center"style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+<br>
+<div align="center"style="display: inline_block">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="BeHance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg">
 </div>
   
   ##
