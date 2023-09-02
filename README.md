@@ -34,7 +34,7 @@ Welcome to my Github ❤️
   <a href="https://www.linkedin.com/in/juliahown/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br>
   <br>
-  <img align="center" alt="Deloitte" src="https://media.licdn.com/dms/image/D5616AQEK09tbTlitsg/profile-displaybackgroundimage-shrink_200_800/0/1679908557803?e=2147483647&v=beta&t=INxbpBIHCtwBju5CIgPWc7BPH6uhI27rbWw0NtAMM-U">
+  <img align="center" alt="Deloitte" src="https://www.irishjobs.ie/careeradvice/wp-content/uploads/Deloitte-banner.jpg">
 
 
 </div>
