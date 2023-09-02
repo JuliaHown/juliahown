@@ -1,8 +1,9 @@
-### Hi, there! I'm [Julia Hown](https://www.linkedin.com/in/juliahown/)!
+### Hi, there! I'm [Julia Hown](https://www.linkedin.com/in/juliahown/)
 Welcome to my Github ❤️
 
-- System Development student from [São Paulo Tech School - SPTech](https://www.sptech.school);
+- Software Analysis and Development student from [São Paulo Tech School - SPTech](https://www.sptech.school);
 - Coding & Support at Payroll IT to Deloitte Touche Tohmatsu Limited.
+- Learning Java & Python.
 <br>
 
 <div align="center">
@@ -36,7 +37,6 @@ Welcome to my Github ❤️
   <br>
   <br>
   <img align="center" alt="Deloitte" src="https://media.licdn.com/dms/image/D5616AQEK09tbTlitsg/profile-displaybackgroundimage-shrink_200_800/0/1679908557803?e=2147483647&v=beta&t=INxbpBIHCtwBju5CIgPWc7BPH6uhI27rbWw0NtAMM-U">
-  
-  ![Snake animation](https://github.com/JuliaHown/JuliaHown/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
