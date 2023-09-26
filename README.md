@@ -2,8 +2,8 @@
 Welcome to my Github ❤️
 
 - Software Analysis and Development student from [São Paulo Tech School - SPTech](https://www.sptech.school);
-- Coding & Support at Payroll IT to Deloitte Touche Tohmatsu Limited.
-- Learning Java & Python.
+- DBA at Payroll IT to Deloitte Touche Tohmatsu Limited.
+- Learning Java.
 <br>
 
 <div align="center">
