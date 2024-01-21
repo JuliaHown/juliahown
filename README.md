@@ -23,7 +23,6 @@ Welcome to my Github ❤️
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="center" alt="BeHance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg">
 </div>
   
   ##
