@@ -3,7 +3,7 @@ Welcome to my Github ❤️
 
 - Software Analysis and Development student from [São Paulo Tech School - SPTech](https://www.sptech.school);
 - DBA at Payroll IT to Deloitte Touche Tohmatsu Limited.
-- Learning Java.
+- Learning Java, JavaScript & TypeScript
 <br>
 
 <div align="center">
