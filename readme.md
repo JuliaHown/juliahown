@@ -60,7 +60,7 @@
  📚 &emsp; Analysis and systems development student at @<a target="_blank" href="https://www.sptech.school">SPTech</a> <br/><br/>
  📌 &emsp; Working for Deloitte as Support and DBA for Payroll IT <br/><br/>
  📢 &emsp; Intermediate B1 English Level, Chinese HSK Level 2<br/><br/>
- 📩 &emsp; Contact Me: juliahown45@gmail.com
+ 📩 &emsp; Contact Me: <a target="_blank" href="">juliahown45@gmail.com</a>
 
 </p>
 
