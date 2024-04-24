@@ -102,17 +102,16 @@
 
 <br/>
 
-## Top Open Source -
+<!-- ## Top Open Source -
 [![Ze Porteiro](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=site-institucional-react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/site-institucional-react)
 [![Yotte](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=site-yotte&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/site-yotte)
 [![Crossword](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=crossword&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/web-projects)
-[![Cocoa Technology](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=site-cocoatechnology&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/site-cocoatechnology)
+[![Cocoa Technology](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=site-cocoatechnology&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/site-cocoatechnology) 
 
 <p align="left">
   <a href="https://github.com/juliahown?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+</p> -->
 
-<br/>
 <hr/>
 <br/>
 
