@@ -55,17 +55,15 @@
  # About me
  
 <p>
- <img align="right" width="450" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea65f92c-bbc9-437f-b0fd-6282fa93ad13/deqgqtk-d1514fb8-68e3-4e38-8612-7ca1d88d024c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhNjVmOTJjLWJiYzktNDM3Zi1iMGZkLTYyODJmYTkzYWQxM1wvZGVxZ3F0ay1kMTUxNGZiOC02OGUzLTRlMzgtODYxMi03Y2ExZDg4ZDAyNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UY1KHb-lZlReeNfuBE0_BbukMuXxWwRbQoIacvRdip4" alt="Coding gif" />
+ <img align="right" width="330" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea65f92c-bbc9-437f-b0fd-6282fa93ad13/deqgqtk-d1514fb8-68e3-4e38-8612-7ca1d88d024c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhNjVmOTJjLWJiYzktNDM3Zi1iMGZkLTYyODJmYTkzYWQxM1wvZGVxZ3F0ay1kMTUxNGZiOC02OGUzLTRlMzgtODYxMi03Y2ExZDg4ZDAyNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UY1KHb-lZlReeNfuBE0_BbukMuXxWwRbQoIacvRdip4" alt="Coding gif" />
   
  📚 &emsp; Analysis and systems development student at @SPTech <br/><br/>
- ❤️ &emsp; Like to front end programming and prototyping web applications<br/><br/>
  📌 &emsp; Working for Deloitte as Support and DBA for Payroll IT <br/><br/>
  📢 &emsp; Intermediate B1 English Level<br/><br/>
  📩 &emsp; Contact Me: juliahown45@gmail.com
 
 </p>
 
-<br/>
 <br/>
 <br/>
 
@@ -105,7 +103,7 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
+[![Ze Porteiro](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/site-institucional-react)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
@@ -120,21 +118,12 @@
 
 <p align="center">
   <a href="https://github.com/juliahown">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/juliahown">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliahown&theme=radical" alt="Julia's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/juliahown"><img alt="Julia's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/juliahown"><img alt="Julia's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/juliahown"><img alt="Julia's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=juliahown&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/juliahown"><img alt="Julia's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juliahown&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-
-![Julia's Graph](https://github-readme-activity-graph.vercel.app/graph?username=juliahown&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
