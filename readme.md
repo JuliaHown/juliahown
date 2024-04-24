@@ -57,7 +57,7 @@
 <p>
  <img align="right" width="270" src="https://i.pinimg.com/originals/d5/8a/df/d58adf5bc33ead140a8a0c707456de91.gif" alt="Sylveon gif" />
   <br />
- 📚 &emsp; Analysis and systems development student at @SPTech <br/><br/>
+ 📚 &emsp; Analysis and systems development student at @<a target="_blank" href="https://www.sptech.school">SPTech</a> <br/><br/>
  📌 &emsp; Working for Deloitte as Support and DBA for Payroll IT <br/><br/>
  📢 &emsp; Intermediate B1 English Level, Chinese HSK Level 2<br/><br/>
  📩 &emsp; Contact Me: juliahown45@gmail.com
