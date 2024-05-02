@@ -40,9 +40,9 @@
 
 ## My skills!
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-134f5c?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-f4bcbc?style=for-the-badge&logo=javascript&logoColor=673c75)
+![HTML](https://img.shields.io/badge/HTML5-152e48?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-d74455?&style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <!--![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) -->
 <!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
@@ -59,15 +59,15 @@
 <!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)-->
 <!-- ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
 <!-- ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)-->
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-794044?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-601f58?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-6883d0?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-673c75?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f18692?style=for-the-badge&logo=figma&logoColor=784022)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-088da5?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### and i'm learning . . .
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React](https://img.shields.io/badge/-React-f4bcc4?style=for-the-badge&labelColor=f48494&logo=react&logoColor=#152e48)
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
