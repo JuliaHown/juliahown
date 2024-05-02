@@ -1,23 +1,7 @@
-<!--
-<h2 align="center">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://alsiam.com">Julia</a></b>
-        </samp>
-</h3>
+<div align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=F4BCC4&center=true&vCenter=true&random=false&width=435&lines=%E2%8A%B9+Hello%2C+welcome+to+my+profile!+%E2%99%A1" alt="Typing SVG" /></a>
+</div>
 
 
 <p align="center"> 
@@ -29,45 +13,32 @@
   </samp>
 </p>
 
-<p align="center">
- <!-- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="juliahown" />
- </a> --> 
- <a href="https://www.linkedin.com/in/juliahown/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="juliahown"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="juliahown" />
- </a> -->
- <!-- <a href="https://twitter.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a> -->
- <a href="https://www.instagram.com/juhwzi/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="juliahown" />
- </a>
- <!-- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="juliahown"  />
-  </a> -->
-</p>
+<div align=center>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=f48494&color:FFF)](mailto:juliahown87@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f48494&color:FFF)](https://www.linkedin.com/in/juliahown/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=f48494&color:FFF)](https://www.instagram.com/juhwzi/)
+
+</div>
+
 <br />
 
 <!-- About Section -->
- # About me
+ # About me!
  
 <p>
- <img align="right" width="270" src="https://i.pinimg.com/originals/d5/8a/df/d58adf5bc33ead140a8a0c707456de91.gif" alt="Sylveon gif" />
+ <img align="right" width="250" src="https://i.pinimg.com/originals/d5/8a/df/d58adf5bc33ead140a8a0c707456de91.gif" alt="Sylveon gif" />
   <br />
- 📚 &emsp; Analysis and systems development student at @<a target="_blank" href="https://www.sptech.school">SPTech</a> <br/><br/>
- 📌 &emsp; Working for Deloitte as Support and DBA for Payroll IT <br/><br/>
- 📢 &emsp; Advanced C1 English Level <br/><br/>
- 📩 &emsp; Contact Me: <a target="_blank" href="">juliahown45@gmail.com</a>
+ 📚 &emsp; Analysis and systems development student at @<a target="_blank" href="https://www.sptech.school">Sao Paulo tech School</a> <br/><br/>
+ 🏬 &emsp; Working for Deloitte as Support and DBA for Payroll IT <br/><br/>
+ 💬 &emsp; Advanced C1 English Level <br/><br/>
+ 💌 &emsp; Love to learn new things! <br/><br/>
 
 </p>
 
 <br/>
-<br/>
 
-## My skills
+## My skills!
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-134f5c?style=for-the-badge&logo=html5&logoColor=white)
@@ -102,27 +73,13 @@
 
 <br/>
 
-<!-- ## Top Open Source -
-[![Ze Porteiro](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=site-institucional-react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/site-institucional-react)
-[![Yotte](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=site-yotte&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/site-yotte)
-[![Crossword](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=crossword&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/web-projects)
-[![Cocoa Technology](https://github-readme-stats.vercel.app/api/pin/?username=juliahown&repo=site-cocoatechnology&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JuliaHown/site-cocoatechnology) 
 
-<p align="left">
-  <a href="https://github.com/juliahown?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p> -->
 
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/juliahown">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliahown&theme=radical" alt="Julia's GitHub Contribution"/>
-  </a>
-</p>
-
 <a> 
-    <a href="https://github.com/juliahown"><img alt="Julia's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=juliahown&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/juliahown"><img alt="Julia's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juliahown&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/juliahown"><img alt="Julia's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=juliahown&show_icons=true&count_private=true&theme=react&border_color=91215a&bg_color=0D1117&title_color=f48494&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/juliahown"><img alt="Julia's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juliahown&langs_count=8&layout=compact&theme=react&border_color=91215a&bg_color=0D1117&title_color=f48494&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
