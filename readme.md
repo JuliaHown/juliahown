@@ -1,13 +1,13 @@
 <!-- Intro  -->
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=F4BCC4&center=true&vCenter=true&random=false&width=435&lines=%E2%8A%B9+Hello%2C+welcome+to+my+profile!+%E2%99%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F790E3&random=false&width=435&lines=%E2%8A%B9+Ol%C3%A1!+Bem-vindos+ao+meu+perfil!+%E2%99%A1;%E2%8A%B9+Hello%2C+welcome+to+my+profile!+%E2%99%A1" alt="Typing SVG" /></a>
 </div>
 
 
 <p align="center"> 
   <samp>
     <br>
-    「 I am a <b>front-end</b> web application developer and <b>designer</b> 」
+    「 I am a <b>full-stack</b> web application developer and <b>designer</b> 」
     <br>
     <br>
   </samp>
