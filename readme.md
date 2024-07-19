@@ -6,7 +6,7 @@
 
 I am glad you came to visit my profile, welcome! I am a Fullstack developer, enthusiastic about learning new things in technology. I am currently studying Systems Analysis and Development at SPTECH. I am constantly looking to improve my skills to enhance my results and deliveries, in projects and at work. At the moment, I am seeking to solidify my knowledge in React, as well as embarking on a new journey with Python. Technology has an incredible power to help and revolutionize society, and it is a great pleasure to be a part of it!
 
-<img align="right" alt="" height="400px" src="https://img.getimg.ai/generated/img-HX2E528c8fOcG3II8ERlM.jpeg">
+<img align="right" alt="" height="390px" src="https://img.getimg.ai/generated/img-HX2E528c8fOcG3II8ERlM.jpeg">
 
 <div style="display: flex; align-items: left; justify-content: space-between;">
   
