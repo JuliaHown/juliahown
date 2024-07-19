@@ -54,4 +54,4 @@ I am glad you came to visit my profile, welcome! I am a Fullstack developer, ent
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=600&height=40&lines=%E2%AD%90+Check+out+my+repositories!;%F0%9F%92%AD+Feel+free+to+reach+out+to+me+on+social+media;%F0%9F%92%97+Have+a+great+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=600&height=40&lines=%E2%AD%90+Check+out+my+repositories!;%F0%9F%92%AD+Let%E2%80%99s+connect+on+social+media;%F0%9F%92%97+Have+a+great+day!+%3AD)](https://git.io/typing-svg)
