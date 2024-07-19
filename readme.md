@@ -34,7 +34,7 @@ I am glad you came to visit my profile, welcome! I am a Fullstack developer, ent
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I am familiar with
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,react,html,css,python,js,ts,mysql,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,react,html,css,python,js,ts,mysql,figma,git,github,sass,styledcomponents,npm,vscode" />
 </a>
 
 
