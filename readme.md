@@ -1,7 +1,5 @@
 <br clear="both">
 
-![Julia](https://github.com/user-attachments/assets/aa43bab9-a7d3-4934-957e-e403e6a11af8)
-
 <h1 align="center">Hi there! I'm Julia Hown ⭐</h1>
 
 
