@@ -17,7 +17,7 @@ I am glad you came to visit my profile, welcome! I am a Fullstack developer, ent
 ###
 
 ### 📎 Technologies I'm learning
-- ✨ Python, Django, React Native and Kotlin are some technologies I am learning rn.
+- ✨ Python, Django, React Native and Kotlin are some technologies I am <br> learning at the moment.
 - 🌸 Also keen on learning React, Javascript, and Typescript!!!
 
 </div>
