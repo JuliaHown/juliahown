@@ -1,6 +1,9 @@
 <br clear="both">
 
-<h1 align="left">Hi there! I'm Julia Hown ⭐</h1>
+![Julia](https://github.com/user-attachments/assets/aa43bab9-a7d3-4934-957e-e403e6a11af8)
+
+<h1 align="center">Hi there! I'm Julia Hown ⭐</h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&width=600&height=40&lines=%F0%9F%92%BB+I'm+a+Full-stack+Developer;%F0%9F%93%8C+I+live+in+Sao+Paulo%2C+Brazil;%F0%9F%91%BE+I+love+games%2C+music+and+animes+%3A3;%F0%9F%93%9D+I+speak+eng%2C+cn+and+ofc+pt-br)](https://git.io/typing-svg)
 
