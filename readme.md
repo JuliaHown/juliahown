@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://raw.githubusercontent.com/juliahown/juliahown/main/assets/img.jpg" width="20%" align="left">
+ <img src="https://raw.githubusercontent.com/juliahown/juliahown/main/assets/img02.jpg" width="23%" align="left">
   <p float="left">
     
     about me ! ★ 
