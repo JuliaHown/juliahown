@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://raw.githubusercontent.com/juliahown/juliahown/main/assets/img.jpg" width="21%" align="left">
+ <img src="https://raw.githubusercontent.com/juliahown/juliahown/main/assets/img.jpg" width="20%" align="left">
   <p float="left">
     
     about me ! ★ 
@@ -18,4 +18,3 @@
     │   ┗ ▸ java, javascript, python
     │   ┗ ▸ react.js
 
-     portfolio: in process...
